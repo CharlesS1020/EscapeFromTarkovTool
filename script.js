@@ -1,66 +1,66 @@
 // Curency
-var R = 'Roubles';
-var USD = 'USD';
-var E = 'Euros';
+const R = 'Roubles';
+const USD = 'USD';
+const E = 'Euros';
 
 // Hardware Items
-var analogThermometer = 'analogThermometer';
-var aPackOfNails = 'A Pack of Nails';
-var bolts = 'Bolts';
-var corrugatedHose = 'Corrugated Hose';
-var ductTape = 'Duct tape';
-var electricDrill = 'Electric drill';
-var electricMotor = 'Electric motor';
-var heatExchangeAkali = 'Heat-exchange alkali';
-var leathermanMultitool = 'Leatherman multitool';
-var lightBulb = 'Light bulb';
-var pressureGauge = 'Pressure gauge';
-var radiatorHelix = 'Radiator helix';
-var screwNut = 'Screw nut';
-var aPackOfScrews = 'A pack of screws';
-var aSetOfTools = 'A set of tools';
-var siliconeTube = 'Silicone tube';
-var wrench = 'Wrench';
-var elitePliers = 'Elite Pliers';
-var fireKleanGunLube = 'FireKlean gun lube';
-var sparkPlug = 'Spark plug';
-var xenomorphSealingFoam = 'Xenomorph sealing foam';
-var handDrill = 'Hand drill';
-var wd40 = 'WD-40 100ml';
-var shustriloSealingFoam = 'Shustrilo sealing foam';
+const analogThermometer = 'analogThermometer';
+const aPackOfNails = 'A Pack of Nails';
+const bolts = 'Bolts';
+const corrugatedHose = 'Corrugated Hose';
+const ductTape = 'Duct tape';
+const electricDrill = 'Electric drill';
+const electricMotor = 'Electric motor';
+const heatExchangeAkali = 'Heat-exchange alkali';
+const leathermanMultitool = 'Leatherman multitool';
+const lightBulb = 'Light bulb';
+const pressureGauge = 'Pressure gauge';
+const radiatorHelix = 'Radiator helix';
+const screwNut = 'Screw nut';
+const aPackOfScrews = 'A pack of screws';
+const aSetOfTools = 'A set of tools';
+const siliconeTube = 'Silicone tube';
+const wrench = 'Wrench';
+const elitePliers = 'Elite Pliers';
+const fireKleanGunLube = 'FireKlean gun lube';
+const sparkPlug = 'Spark plug';
+const xenomorphSealingFoam = 'Xenomorph sealing foam';
+const handDrill = 'Hand drill';
+const wd40 = 'WD-40 100ml';
+const shustriloSealingFoam = 'Shustrilo sealing foam';
 
 // Electronics
-var cpuFan = 'CPU fan';
-var capacitors = 'Capacitors';
-var carBattery = 'Car battery';
-var damagedHardDrive = 'Damaged hard drive';
-var phaseControlRelay = 'Phase control relay';
-var powerSupplyUnit = 'Power supply unit';
-var powercord = 'Powercord';
-var printedCircuitBoard = 'Printed circuit board';
-var ssdDrive = 'SSD drive';
-var secureFlashDrive = 'Secure flash drive';
-var wires = 'Wires';
-var workingLCD = 'Working LCD';
-var nixxorLens = 'NIXXOR lens';
-var militaryCOFDM = 'Military COFDM';
-var vpxFlashStorageModule = 'VPX Flash Storage Module';
-var gasAnalyzer = 'Gas analyzer';
-var militaryCable = 'Military cable';
+const cpuFan = 'CPU fan';
+const capacitors = 'Capacitors';
+const carBattery = 'Car battery';
+const damagedHardDrive = 'Damaged hard drive';
+const phaseControlRelay = 'Phase control relay';
+const powerSupplyUnit = 'Power supply unit';
+const powercord = 'Powercord';
+const printedCircuitBoard = 'Printed circuit board';
+const ssdDrive = 'SSD drive';
+const secureFlashDrive = 'Secure flash drive';
+const wires = 'Wires';
+const workingLCD = 'Working LCD';
+const nixxorLens = 'NIXXOR lens';
+const militaryCOFDM = 'Military COFDM';
+const vpxFlashStorageModule = 'VPX Flash Storage Module';
+const gasAnalyzer = 'Gas analyzer';
+const militaryCable = 'Military cable';
 
 // Medical Items
-var medicalBloodset = 'Medical bloodset';
-var salineSolution = 'Saline solution';
-var sodiumBicarbonate = 'Sodium bicarbonate';
-var coffeeMajaica = 'Coffee Majaica';
-var ledx = 'LEDX';
+const medicalBloodset = 'Medical bloodset';
+const salineSolution = 'Saline solution';
+const sodiumBicarbonate = 'Sodium bicarbonate';
+const coffeeMajaica = 'Coffee Majaica';
+const ledx = 'LEDX';
 
 // Valuables
-var bronzeLion = 'Bronze lion';
-var folderWithIntelligence = 'Folder with intelligence';
-var goldSkullRing = 'Gold skull ring';
-var goldenNeckChain = 'Golden neck chain';
-var roler = 'Roler';
+const bronzeLion = 'Bronze lion';
+const folderWithIntelligence = 'Folder with intelligence';
+const goldSkullRing = 'Gold skull ring';
+const goldenNeckChain = 'Golden neck chain';
+const roler = 'Roler';
 
 /* 
 // Totals
